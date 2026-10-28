@@ -21,7 +21,7 @@ Get full visibility of your application performance in real-time along with in-d
 
 You can [Integrate](https://docs.atatus.com/docs/application-monitoring/overview.html) your application with OpenTelemetry to get started.
 
-![apm-cover](https://www.atatus.com/images/press-screenshots/apm.png)
+![apm-cover](https://www.atatus.com/img/product/apm/apm-dashboard-overview.webp)
 
 
 ### Logs Monitoring
@@ -30,35 +30,33 @@ Simplify your log monitoring to effortlessly track and analyze events, enabling 
 
 You can also create charts on your logs and monitor them with customized dashboards. [Read more](https://www.atatus.com/logs-monitoring/features).
 
-![logs-management-cover](https://www.atatus.com/images/press-screenshots/logs.png)
+![logs-management-cover](https://www.atatus.com/img/product/logs/logs.webp)
 
 
 ### Database Monitoring
 
 Actively track query execution times, resource utilization, and transaction throughput for each database call, providing real-time insights into the intricate workings of your database. [Read more](https://www.atatus.com/database-monitoring/features).
 
-![distributed-tracing-cover](https://www.atatus.com/images/press-screenshots/database.png)
-
-
+![distributed-tracing-cover](https://www.atatus.com/img/product/database/database.webp)
 
 ### Kubernetes Monitoring
 
 Gain comprehensive insights into your Kubernetes cluster, highlighting strategies to optimize resource utilization across workloads, leading to improved management and efficiency of your Kubernetes setup. [Read more](https://www.atatus.com/kubernetes-monitoring/features).
 
-![Kubernetes Monitoring-cover](https://www.atatus.com/images/press-screenshots/kubernetes.png)
+![Kubernetes Monitoring-cover](https://www.atatus.com/img/product/kubernetes/kubernetes-overview.webp)
 
 ### Infrastructure monitoring
 
 Get complete visibility of your infrastructure to diagnose and resolve performance issues that impact your business. Make better business decisions by correlating application metrics, logs and traces to troubleshoot problems faster. [Read more](https://www.atatus.com/infrastructure-monitoring/features).
 
-![Infrastructure monitoring-cover](https://www.atatus.com/images/press-screenshots/infra.png)
+![Infrastructure monitoring-cover](https://www.atatus.com/img/product/infra/infra-dashboard.webp)
 
 ### Serverless Monitoring
 
 Unlock deep insights and proactive monitoring for your serverless architecture. Enhance application reliability, performance, and security with real-time observability.
 [Read more](https://www.atatus.com/serverless-monitoring/features).
 
-![exceptions-cover](https://www.atatus.com/images/press-screenshots/serverless.png)
+![exceptions-cover](https://www.atatus.com/img/product/serverless/serverless.webp)
 
 
 <br /><br />
