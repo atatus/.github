@@ -60,39 +60,39 @@ Unlock deep insights and proactive monitoring for your serverless architecture. 
 
 ### Session Replay
 
-[Session Replay](https://www.atatus.com/img/product/session-replay/session-replay.webp)
+![Session Replay](https://www.atatus.com/img/product/session-replay/session-replay.webp)
 
 ### SIEM
 
-[SIEM](https://www.atatus.com/img/product/siem/security-siem-dashboard-overview.webp)
+![SIEM](https://www.atatus.com/img/product/siem/security-siem-dashboard-overview.webp)
 
 ### SRE 
 
-[AI SRE](https://www.atatus.com/img/product/sre/ai-sre-rca-assistant.webp)
+![AI SRE](https://www.atatus.com/img/product/sre/ai-sre-rca-assistant.webp)
 
 ### Synthetic Monitoring
 
-[Synthetic](https://www.atatus.com/img/product/synthetic/synthetic-overview.webp)
+![Synthetic](https://www.atatus.com/img/product/synthetic/synthetic-overview.webp)
 
 ### Infra Vulnerability
 
-[Vulnerability](https://www.atatus.com/img/product/infra-vulnerability/vulnerability-overview.webp)
+![Vulnerability](https://www.atatus.com/img/product/infra-vulnerability/vulnerability-overview.webp)
 
 ### LLM Monitoring
 
-[LLM](https://www.atatus.com/img/product/llm/llm-model-breakdown.webp)
+![LLM](https://www.atatus.com/img/product/llm/llm-model-breakdown.webp)
 
 ### Metrics
 
-[Metrics](https://www.atatus.com/img/product/metrics/metrics-explorer.webp)
+![Metrics](https://www.atatus.com/img/product/metrics/metrics-explorer.webp)
 
 ### Network Monitoring
 
-[Network](https://www.atatus.com/img/product/network-monitoring/network-device-overview.webp)
+![Network](https://www.atatus.com/img/product/network-monitoring/network-device-overview.webp)
 
 ### OpenTelemetry
 
-[Otel](https://www.atatus.com/img/product/otel/opentelemetry-monitoring.webp)
+![Otel](https://www.atatus.com/img/product/otel/opentelemetry-monitoring.webp)
 
 <br /><br />
 
